@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* body {
+  color: #282828;
+  font-family: "Poppins", sans-serif;
+  overflow-x: hidden;
+  background-color: #F8F8F8;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.gradient-section {
+  position: relative;
+  max-width: 1607px;
+  height: auto;
+  margin: 0 auto;
+}
+.gradient-section > img {
+  position: absolute;
+  inset: 0;
+  width: 100vw;
+  height: auto;
+  object-fit: cover;
+} */
+
+
